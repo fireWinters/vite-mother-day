@@ -24,6 +24,7 @@ git push -u origin main
 5和仓库做关联与本地项目
 6推送仓库到远端，创建新分支做练习
 7合并分支相关命令练习
+git merge dev-vvv --no-ff
 8推送代码练习
 找不到git命令的，执行 git help查看命令
 
