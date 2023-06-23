@@ -1,3 +1,10 @@
+<!--
+ * @Author: callus
+ * @Date: 2023-06-22 22:29:12
+ * @LastEditors: callus
+ * @Description: some description
+ * @FilePath: /vite-mother-day1/src/components/Header.vue
+-->
 <template>
   <header>
     <div class="content">
@@ -38,6 +45,10 @@ const navList = [
     name: "联系我们",
     link: "/#contactus",
   },
+  {
+    name:'关于',
+    link:'/#about'
+  }
 ];
 
 const selected = ref(0);
