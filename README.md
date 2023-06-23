@@ -31,4 +31,11 @@ git merge dev-vvv --no-ff
 
 
 
-
+第一步：创建静态组件
+手写/引入类库
+第二步：vue-router
+记得注册导出
+第三步：接口请求
+axios/fatch
+第四步：msw
+构造假数据
